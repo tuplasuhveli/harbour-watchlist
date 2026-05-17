@@ -5,7 +5,7 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* xx.xx.2026 Andreas Wüst <andreas.wuest.freelancer@gmail.com> 0.13.11-1
+* 17.05.2026 Andreas Wüst <andreas.wuest.freelancer@gmail.com> 0.13.11-1
 
 - fixed searching and quote update for MOEX backend
 - fixed loading of (german) security news
